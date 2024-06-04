@@ -1,0 +1,232 @@
+ Burger Menu
+
+1. Classic Beef Burger
+   Ingredients: Beef patty, lettuce, tomato, onion, pickles, ketchup, mustard, sesame seed bun
+   Price: PKR 450
+
+2. Cheese Burger
+   Ingredients: Beef patty, cheddar cheese, lettuce, tomato, onion, pickles, ketchup, mustard, sesame seed bun
+   Price: PKR 500
+
+3. Chicken Burger
+   Ingredients: Grilled chicken breast, lettuce, tomato, mayo, sesame seed bun
+   Price: PKR 400
+
+4. Spicy Zinger Burger
+   Ingredients: Crispy fried chicken fillet, lettuce, spicy mayo, sesame seed bun
+   Price: PKR 550
+
+5. Mushroom Swiss Burger
+   Ingredients: Beef patty, Swiss cheese, sautéed mushrooms, lettuce, mayo, sesame seed bun
+   Price: PKR 600
+
+6. BBQ Beef Burger
+   Ingredients: Beef patty, BBQ sauce, cheddar cheese, onion rings, lettuce, sesame seed bun
+   Price: PKR 650
+
+7. Fish Burger
+   Ingredients: Fried fish fillet, lettuce, tartar sauce, sesame seed bun
+   Price: PKR 500
+
+8. Veggie Burger
+   Ingredients: Veggie patty, lettuce, tomato, onion, pickles, ketchup, mustard, sesame seed bun
+   Price: PKR 350
+
+9. Double Beef Burger
+   Ingredients: Two beef patties, lettuce, tomato, onion, pickles, ketchup, mustard, sesame seed bun
+   Price: PKR 700
+
+10. Chipotle Chicken Burger
+    Ingredients: Grilled chicken breast, chipotle mayo, lettuce, tomato, sesame seed bun
+    Price: PKR 550
+
+11. Jalapeno Beef Burger
+    Ingredients: Beef patty, jalapenos, pepper jack cheese, lettuce, spicy mayo, sesame seed bun
+    Price: PKR 600
+
+12. Bacon Cheeseburger
+    Ingredients: Beef patty, bacon, cheddar cheese, lettuce, tomato, onion, pickles, ketchup, mustard, sesame seed bun
+    Price: PKR 650
+
+13. Blue Cheese Burger
+    Ingredients: Beef patty, blue cheese, lettuce, tomato, onion, mayo, sesame seed bun
+    Price: PKR 700
+
+14. Grilled Chicken Avocado Burger
+    Ingredients: Grilled chicken breast, avocado, lettuce, tomato, mayo, sesame seed bun
+    Price: PKR 600
+
+15. Buffalo Chicken Burger
+    Ingredients: Crispy chicken fillet, buffalo sauce, lettuce, blue cheese dressing, sesame seed bun
+    Price: PKR 600
+
+ Pizza Menu
+
+1. Margherita Pizza
+   Ingredients: Tomato sauce, mozzarella, fresh basil
+   Price: PKR 800
+
+2. Pepperoni Pizza
+   Ingredients: Tomato sauce, mozzarella, pepperoni
+   Price: PKR 950
+
+3. BBQ Chicken Pizza
+   Ingredients: BBQ sauce, grilled chicken, red onions, mozzarella, cilantro
+   Price: PKR 1200
+
+4. Veggie Pizza
+   Ingredients: Tomato sauce, mozzarella, bell peppers, onions, mushrooms, olives, tomatoes
+   Price: PKR 900
+
+5. Hawaiian Pizza
+   Ingredients: Tomato sauce, mozzarella, ham, pineapple
+   Price: PKR 1000
+
+6. Meat Lovers Pizza
+   Ingredients: Tomato sauce, mozzarella, pepperoni, sausage, ham, bacon
+   Price: PKR 1300
+
+7. Supreme Pizza
+   Ingredients: Tomato sauce, mozzarella, pepperoni, sausage, bell peppers, onions, olives
+   Price: PKR 1400
+
+8. Four Cheese Pizza
+   Ingredients: Tomato sauce, mozzarella, cheddar, Parmesan, blue cheese
+   Price: PKR 1100
+
+9. Buffalo Chicken Pizza
+   Ingredients: Buffalo sauce, grilled chicken, mozzarella, red onions, cilantro
+   Price: PKR 1200
+
+10. Pesto Chicken Pizza
+    Ingredients: Pesto sauce, grilled chicken, mozzarella, cherry tomatoes, arugula
+    Price: PKR 1250
+
+ BBQ Menu
+
+1. Chicken Tikka
+   Ingredients: Marinated chicken pieces, grilled
+   Price: PKR 450
+
+2. Seekh Kebabs
+   Ingredients: Minced meat with spices, grilled on skewers
+   Price: PKR 400
+
+3. Beef Boti
+   Ingredients: Marinated beef cubes, grilled
+   Price: PKR 550
+
+4. Malai Boti
+   Ingredients: Creamy marinated chicken cubes, grilled
+   Price: PKR 500
+
+5. Chapli Kebab
+   Ingredients: Spiced minced meat patties, grilled
+   Price: PKR 450
+
+6. Lamb Chops
+   Ingredients: Marinated lamb chops, grilled
+   Price: PKR 800
+
+7. Fish Tikka
+   Ingredients: Marinated fish pieces, grilled
+   Price: PKR 600
+
+8. Grilled Prawns
+   Ingredients: Marinated prawns, grilled
+   Price: PKR 900
+
+9. Afghani Boti
+   Ingredients: Mildly spiced marinated chicken, grilled
+   Price: PKR 500
+
+10. BBQ Platter
+    Ingredients: Assorted grilled meats (chicken tikka, seekh kebab, malai boti, beef boti)
+    Price: PKR 1500
+
+ Pakistani Dishes
+
+1. Chicken Karahi
+   Ingredients: Chicken, tomatoes, green chilies, ginger, garlic, spices
+   Price: PKR 700
+
+2. Mutton Karahi
+   Ingredients: Mutton, tomatoes, green chilies, ginger, garlic, spices
+   Price: PKR 1200
+
+3. Biryani
+   Ingredients: Rice, chicken/mutton, spices, yogurt, tomatoes
+   Price: PKR 500
+
+4. Nihari
+   Ingredients: Slow-cooked beef stew with spices
+   Price: PKR 800
+
+5. Haleem
+   Ingredients: Lentils, wheat, meat (chicken/beef), spices, slow-cooked
+   Price: PKR 600
+
+6. Saag
+   Ingredients: Spinach, mustard greens, spices, butter
+   Price: PKR 400
+
+7. Palak Paneer
+   Ingredients: Spinach, paneer, spices
+   Price: PKR 500
+
+8. Aloo Gosht
+   Ingredients: Beef/mutton, potatoes, spices
+   Price: PKR 700
+
+9. Daal Chawal
+   Ingredients: Lentil curry, rice
+   Price: PKR 300
+
+10. Chana Masala
+    Ingredients: Chickpeas, tomatoes, onions, spices
+    Price: PKR 350
+
+ Chinese Dishes
+
+1. Chicken Manchurian
+   Ingredients: Chicken, soy sauce, garlic, ginger, vegetables, sweet and sour sauce
+   Price: PKR 600
+
+2. Beef Chili Dry
+   Ingredients: Beef, soy sauce, garlic, ginger, green chilies, vegetables
+   Price: PKR 700
+
+3. Sweet and Sour Chicken
+   Ingredients: Chicken, bell peppers, pineapple, sweet and sour sauce
+   Price: PKR 650
+
+4. Fried Rice
+   Ingredients: Rice, vegetables, soy sauce, chicken/shrimp
+   Price: PKR 400
+
+5. Chicken Chow Mein
+   Ingredients: Noodles, chicken, vegetables, soy sauce
+   Price: PKR 500
+
+6. Beef with Black Bean Sauce
+   Ingredients: Beef, black bean sauce, vegetables
+   Price: PKR 750
+
+7. Hot and Sour Soup
+   Ingredients: Chicken, tofu, mushrooms, vegetables, vinegar, pepper
+   Price: PKR 300
+
+8. Spring Rolls
+   Ingredients: Vegetables, chicken/shrimp, wrappers, deep-fried
+   Price: PKR 250
+
+9. Kung Pao Chicken
+   Ingredients: Chicken, peanuts, vegetables, spicy sauce
+   Price: PKR 650
+
+10. Szechuan Shrimp
+    Ingredients: Shrimp, Szechuan sauce, vegetables
+    Price: PKR 800
+
+
+
