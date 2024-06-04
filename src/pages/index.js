@@ -1,6 +1,7 @@
 import { useRouter } from "next/router";
 import React, { useEffect } from "react";
 import logger from "../utils/logger";
+import 'regenerator-runtime/runtime';
 import { getCookie } from "cookies-next";
 const StoreInfo = () => {
   let router = useRouter();
