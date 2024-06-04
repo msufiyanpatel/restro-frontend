@@ -1,6 +1,7 @@
 import { useState, useEffect, useContext } from "react";
 import Head from "next/head";
 import { useRouter } from "next/router";
+import 'regenerator-runtime/runtime';
 import axios from "../../../../utils/axios";
 import endpoints from "../../../../constant/endPoints";
 import NavBar from "../../../../components/NavBar";
@@ -187,7 +188,6 @@ export default function Home(props) {
 
               {/* Services */}
               <div
-                style={{ maxWidth: maxWidth }}
                 className={`w-screen items-start  flex flex-wrap ${
                   lang == "ar" ? "justify-between" : "justify-between"
                 }  mt-[10px] pb-2 px-4  `}
@@ -227,7 +227,6 @@ export default function Home(props) {
                     </p>
                   </div>
                 )}
-              </div>
               {/* Services end */}
 
               {/* Cities */}
@@ -257,6 +256,7 @@ export default function Home(props) {
               {/* Cities end */}
             </div>
           </div>
+          </div>
         )
       ) : (
         <div
@@ -269,6 +269,7 @@ export default function Home(props) {
           </p>
         </div>
       )}
+      
     </>
   );
 }
